@@ -13,15 +13,7 @@
 
 ## About
 
-ShopifyThemeForge is a modern visual theme builder that makes Shopify theme development accessible to everyone. Whether you're a designer who wants to prototype quickly or a developer who wants to speed up theme creation, ThemeForge provides an intuitive interface to build beautiful Shopify themes without writing Liquid code manually.
-
-**Key Benefits:**
-- 🎯 **Drag-and-drop simplicity** — No code required to build themes
-- 🤖 **AI-powered suggestions** — Get layout and design recommendations
-- 📤 **One-click export** — Generate production-ready Liquid code
-- 🔗 **Direct Shopify sync** — Deploy directly to your store
-- 📱 **Responsive preview** — Test on desktop, tablet, and mobile
-- 🔄 **Version control** — Export to GitHub for collaboration
+ShopifyThemeForge is a modern visual theme builder that makes Shopify theme development accessible to everyone. Whether you're a designer who wants to prototype quickly or a developer who wants to speed up theme creation, ThemeForge provides an intuitive drag-and-drop interface to build beautiful Shopify themes without writing Liquid code manually. It exports production-ready Liquid code with AI-powered layout suggestions and direct Shopify sync.
 
 ## ✨ Features
 
